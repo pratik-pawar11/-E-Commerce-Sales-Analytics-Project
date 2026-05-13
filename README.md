@@ -156,7 +156,7 @@ The project includes multiple visualizations to identify trends and business ins
 
 ## 📈 Monthly Revenue & Profit Trend
 
-![Monthly Revenue Trend](images/monthly_revenue_profit.png)
+![Monthly Revenue Trend](top_products_revenue.png.png)
 
 Shows monthly business growth trends and seasonal sales performance.
 
