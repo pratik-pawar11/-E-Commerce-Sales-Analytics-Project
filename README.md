@@ -156,7 +156,7 @@ The project includes multiple visualizations to identify trends and business ins
 
 ## 📈 Monthly Revenue & Profit Trend
 
-![Monthly Revenue Trend](top_products_revenue.png.png)
+![Monthly Revenue Trend](order_value_vs_profit.png.png)
 
 Shows monthly business growth trends and seasonal sales performance.
 
@@ -164,7 +164,7 @@ Shows monthly business growth trends and seasonal sales performance.
 
 ## 🛒 Top 10 Products by Revenue
 
-![Top Products](images/top_products_revenue.png)
+![Top Products](payment_method_analysis.png.png)
 
 Highlights the highest revenue-generating products.
 
@@ -172,7 +172,7 @@ Highlights the highest revenue-generating products.
 
 ## 💳 Payment Method Analysis
 
-![Payment Method Analysis](images/payment_method_analysis.png)
+![Payment Method Analysis](top_products_revenue.png.png)
 
 Analyzes customer payment preferences and revenue distribution.
 
@@ -180,7 +180,7 @@ Analyzes customer payment preferences and revenue distribution.
 
 ## 📊 Order Value vs Profit by Category
 
-![Order Value vs Profit](images/order_value_vs_profit.png)
+![Order Value vs Profit](monthly_revenue_profit.png.png)
 
 Shows the relationship between revenue and profitability across categories.
 
